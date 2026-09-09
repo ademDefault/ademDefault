@@ -1,5 +1,4 @@
 <h1 align="center">This World is nuked by me Adem</h1>
-<img width="204" height="200" alt="image" src="https://github.com/user-attachments/assets/961af964-1980-4aa7-aca8-9343eab0f2d4" />
 
 # 💫 About Me:
 ✦ About Me<br><br>👋 Self-taught coder, learning by breaking things and fixing them again.<br>💻 Building random projects for fun, one bug at a time.<br>🌱 Always curious, always tinkering.
